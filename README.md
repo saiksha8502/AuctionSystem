@@ -10,9 +10,9 @@ In a server-side header bidding entire auction takes place in a server instead o
 Winning bid is returned to publisher’s ad server and subsequently, the ad is  displayed
 
 # Technology Used
-Socket.io
-Express: Back-End Framework
-React: Front-End Library
+Socket.io, 
+Express: Back-End Framework , 
+React: Front-End Library, 
 Node.js: JS Runtime Environment
 
 # Services
