@@ -16,4 +16,8 @@ React: Front-End Library,
 Node.js: JS Runtime Environment
 
 # Services
+1. CREATE ACCOUNT
+2. BID FOR THE ITEMS YOU WANT TO BUY  
+3. LIST ITEMS FOR AUCTION
+4. CAN CHECK FOR MY PREVIOUS BIDS
 
